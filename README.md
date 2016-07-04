@@ -7,4 +7,4 @@ After you change the `EVENTBRITE_OAUTH_TOKEN` and `SLACK_URL` variables you can 
 
 ## Python alternative
 
-Prefer python? Use the GitHub Gist at https://gist.github.com/simonw/5e75c1a67e2a4fce735e from simonw instead, which was use as inspiration and base for this project.
+Prefer python? Use the GitHub Gist at https://gist.github.com/simonw/5e75c1a67e2a4fce735e from simonw instead, which was used as inspiration and base for this project.
